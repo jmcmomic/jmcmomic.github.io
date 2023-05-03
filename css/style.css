@@ -26,6 +26,17 @@ table{
     border-collapse:collapse;
     border-spacing:0
 }
+button{
+    margin:1.2rem;
+    font-size: 18px;
+    border-color: #ea6929;
+    border-radius: 22px;
+    padding:12px;
+    background-color: #fff;
+}
+button a{
+    text-decoration: none;
+}
 .content>.bg{
     background-image:url(../img/1219385.png);
     background-color:#f3f3f3;
