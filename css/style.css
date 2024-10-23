@@ -6,6 +6,20 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     font:inherit;
     vertical-align:baseline
 }
+.social-links {
+    display: flex;
+    align-items: center; 
+    margin-bottom: 10px;
+}
+
+.social-links img {
+    margin-right: 10px; 
+}
+
+.social-links a {
+    text-decoration: none;
+    font-size: 16px;
+}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{
     display:block
 }
